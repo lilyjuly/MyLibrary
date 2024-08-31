@@ -1,0 +1,20 @@
+* {
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+}
+
+section {
+    border: 10px solid rgb(0, 0, 0);
+    width: 40%;
+    height: 50%;
+    position: relative;
+    text-align: center;
+    padding: 1%;
+    
+
+}
+img {
+    border: 6px solid rgb(19, 68, 143);
+    background-color: rgb(94, 192, 192);
+    margin: 2%;
+    padding: 3%;
+}
